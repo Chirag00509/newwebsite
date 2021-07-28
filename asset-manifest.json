@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/newwebsite/static/css/main.210cca18.chunk.css",
+    "main.js": "/newwebsite/static/js/main.9a971895.chunk.js",
+    "main.js.map": "/newwebsite/static/js/main.9a971895.chunk.js.map",
+    "runtime-main.js": "/newwebsite/static/js/runtime-main.895579f9.js",
+    "runtime-main.js.map": "/newwebsite/static/js/runtime-main.895579f9.js.map",
+    "static/css/2.505ad817.chunk.css": "/newwebsite/static/css/2.505ad817.chunk.css",
+    "static/js/2.e767e266.chunk.js": "/newwebsite/static/js/2.e767e266.chunk.js",
+    "static/js/2.e767e266.chunk.js.map": "/newwebsite/static/js/2.e767e266.chunk.js.map",
+    "index.html": "/newwebsite/index.html",
+    "static/css/2.505ad817.chunk.css.map": "/newwebsite/static/css/2.505ad817.chunk.css.map",
+    "static/css/main.210cca18.chunk.css.map": "/newwebsite/static/css/main.210cca18.chunk.css.map",
+    "static/js/2.e767e266.chunk.js.LICENSE.txt": "/newwebsite/static/js/2.e767e266.chunk.js.LICENSE.txt",
+    "static/media/3.806e3835.jpeg": "/newwebsite/static/media/3.806e3835.jpeg",
+    "static/media/App.46dedf3f.jpeg": "/newwebsite/static/media/App.46dedf3f.jpeg",
+    "static/media/about.ce1b0a4b.jpeg": "/newwebsite/static/media/about.ce1b0a4b.jpeg",
+    "static/media/android.e640b0b2.jpeg": "/newwebsite/static/media/android.e640b0b2.jpeg",
+    "static/media/digital.91138375.jpeg": "/newwebsite/static/media/digital.91138375.jpeg",
+    "static/media/marketing.a6042a2a.jpeg": "/newwebsite/static/media/marketing.a6042a2a.jpeg",
+    "static/media/software.fe1b0e55.jpeg": "/newwebsite/static/media/software.fe1b0e55.jpeg",
+    "static/media/web.577bd10c.jpeg": "/newwebsite/static/media/web.577bd10c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.895579f9.js",
+    "static/css/2.505ad817.chunk.css",
+    "static/js/2.e767e266.chunk.js",
+    "static/css/main.210cca18.chunk.css",
+    "static/js/main.9a971895.chunk.js"
+  ]
+}
